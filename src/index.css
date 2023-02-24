@@ -96,7 +96,9 @@ label:hover {
   /* padding controls height, will always be perfectly square regardless of width */
   position: relative;
   opacity: 0.8;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
 }
+
 .img-wrap img {
   min-width: 100%;
   min-height: 100%;
